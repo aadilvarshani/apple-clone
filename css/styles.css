@@ -1,0 +1,357 @@
+br{
+    height: 30px;
+    
+}
+
+.navbar{
+    margin-top: 0px;
+    background-color: #313132;
+    position: relative;
+    padding-top: 10px;
+    padding-bottom: 12px;
+    margin-bottom: 2px;
+}
+
+.nav-container{
+    padding-left: 265px;
+    margin-bottom: 0px;
+}
+
+.logo{
+   width: 15px;
+    
+}
+
+
+.navbar a{
+    color: rgb(214,214,214);
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    margin-bottom: 5px;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;    font-size: 12px;
+
+}
+
+.college-container{
+    margin: 0px;
+    background-color: #F5F5F7;
+    text-align: center;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+
+}
+
+.college-container h2{
+    color: black;
+    size: 40px;
+    font-weight: 200;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.college-container a{
+    text-decoration:dashed; 
+    color: #0066CC;
+    font-size: 20px;
+    margin-top: 0px;
+}
+
+.college-container h1{
+    margin-top: 0px;
+    color: black;
+    padding-top: 40px;
+    font-weight: 600;
+    font-style: italic;
+    font-size: 52px;
+    margin-bottom: 3px;
+}
+.college-container span{
+    color: #CA2166;
+}
+
+.navbar a:hover{
+    color: white;
+}
+
+.news{
+    position: relative;
+    
+}
+
+.news p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: black;
+    text-align: center;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;    font-size: 14px;
+    padding-bottom: 14px;
+    border: 0px;
+}
+
+.news a{
+    text-decoration: none;
+    color: blue;
+}
+
+body{
+    margin: 0px;
+    color: white;
+}
+
+p{
+    
+    color:white;
+}
+
+td{
+    color: white;
+}
+
+.macbook-air{
+    color: black;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;    
+    text-align: center;
+
+}
+.mac-container{
+    height: 650px;
+    text-align: center;
+}
+
+.macbook-air h1{
+    font-size: 48px;
+    font-weight: 700px;
+}
+
+.mac-text{
+    float: right;
+    margin-top: 200px;
+}
+
+.mcair{
+    float: right;
+    margin-right: 320px;
+    height: 80%;
+}
+
+.mcair h2{
+    padding-bottom: 0px;
+    font-size: 40px;
+}
+
+.m2{
+    margin-top: 0px;
+    float: right;
+    width: 120px;
+    padding-bottom: 60px;
+}
+
+.mac-text a{
+    text-decoration: none;
+    color: #0066CC;
+    font-size: 22px;
+}
+
+
+a:hover{
+    text-decoration: underline;
+}
+
+.right-link{
+    padding-left: 35px;
+}
+
+
+.iphone h1{
+    font-size: 48px;
+    font-weight: 700px;
+    margin-bottom: 0px;
+}
+
+.iphone {
+    position: relative;
+    color: black;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;    
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.iphone a{
+    margin-top: 300px;
+    text-decoration: none;
+    color: #0066CC;
+    font-size: 22px;
+}
+
+.iphone h2{
+    padding-bottom: 0px;
+    font-weight: 100;
+    font-size: 28px;
+    margin-top: 0px;
+}
+
+
+.right-link-1{
+    padding-left: 35px;
+
+}
+
+.mixcontainer{
+    background-color: white;
+    text-align: center;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;    
+    position: relative;
+    height: 590px;
+}
+
+.i13pro{
+    float: left;
+    color: black;
+    padding-left: 200px;
+    padding-top: 10px;
+}
+
+.iwatch{
+    float: left;
+    color: black;
+    padding-left: 115px;
+    padding-top: 10px;
+}
+
+.i13pro h2{
+    color: black;
+    size: 28px;
+    font-weight: 100;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.mixcontainer2{
+    margin-top: 12px;
+    text-align: center;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;    
+    position: relative;
+    height: 620px;
+    color: white;
+}
+
+.mixcontainer2 a{
+    margin-top: 0px;
+    text-decoration: none;
+    color: #0066CC;
+    font-size: 16px;
+}
+
+.mixcontainer a{
+    margin-top: 0px;
+    text-decoration: none;
+    color: #0066CC;
+    font-size: 16px;
+}
+
+.mac13{
+    background-color: black;
+    float: right;
+    position: relative;
+    text-align: center;
+    padding-right: 62px;
+    padding-left: 62px;
+    padding-top: 15px;
+}
+
+.mac13 img{
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+
+.mac13 h1{
+    font-size: 48px;
+    margin-bottom: 4px;
+}
+
+.mac13 a{
+    margin-top: 0px;
+}
+
+.i13pro h1{
+    margin-bottom: 0px;
+    font-size: 48px;
+}
+.spacing{
+    width: 100%;
+    padding-left: 0%;
+    padding-right: 0%;
+    background-color: white;
+}
+.mixcontainer2 h2{
+    margin-top: 0px;
+    padding-top: 0px;
+    size: 28px;
+    font-weight: 100;
+    margin-bottom: 4px;
+}
+
+.ipadair{
+    color: white;
+    background-color: black;
+    float: right;
+    position: relative;
+    text-align: center;
+    padding-right: 197px;
+    padding-left: 197px;
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+
+.tv {
+    position: relative;
+    color: white;
+    background-color: black;
+    float: right;
+    position: relative;
+    text-align: center;
+    padding-bottom: 50px;
+   padding-left: 1px;
+   padding-right: 1px;
+}
+
+.arcade{
+    padding-top: 25px;
+    float: left;
+    color: black;
+    padding-left: 135px;
+    position: relative;
+    }
+.tvimg{
+    width: fit-content;
+}
+
+footer{
+    color: black;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;    
+    text-align: center;
+    background-color: #F5F5F7;
+}
+
+
+.footer-text{
+    width: 70%;
+    color: #727277;
+    font-size: 12px;
+    padding-left: 230px;
+    padding-top: 25px;
+    padding-bottom: 5px;
+}
+
+.footer-text p{
+    color: #727277;
+    font-size: 12px;
+
+}
+
+hr{
+    padding-top: 0px;
+    width: 70%;
+    
+}
